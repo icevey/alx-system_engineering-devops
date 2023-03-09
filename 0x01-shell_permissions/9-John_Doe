@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod J-D hello
+chmod 753 hello
